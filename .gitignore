@@ -1,0 +1,22 @@
+# OS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor/local state
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and runtime leftovers
+*.log
+*.pid
+*.sock
+
+# Local environment
+.env
+.env.*
+
+# Local/generated inventory artifacts
+/code-inventory/
