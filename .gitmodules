@@ -1,6 +1,8 @@
 [submodule "ephemeral-agent"]
 	path = ephemeral-agent
 	url = https://github.com/YifanXu1999/Ephemeral-Agent.git
+	branch = main
 [submodule "ephemeral-os"]
 	path = ephemeral-os
 	url = https://github.com/YifanXu1999/ephemeral-os.git
+	branch = main
